@@ -8,8 +8,8 @@ Repositorio destinado a almacenar informes técnicos y ejecutivos sobre máquina
 
 | Máquina | Plataforma | Dificultad | Informe |
 |---------|------------|------------|---------|
-| Symfonos 6 | VulnHub | — | [📄 Ver PDF](./Symfonos6.pdf) |
-| Economists | HackMyVM | — | [📄 Ver PDF](./Economists.pdf) |
+| Symfonos 6 | VulnHub | Media | [📄 Ver PDF](./Symfonos6.pdf) |
+| Economists | HackMyVM | Fácil | [📄 Ver PDF](./Economists.pdf) |
 
 ---
 
